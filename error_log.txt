@@ -1,0 +1,20 @@
+[2025-01-23 17:56:09] Attempting to update user ID: 104
+[2025-01-23 17:56:09] Update data: {"name":"coquille hekjrn","email":"dissertationsafefund@gmail.com","mobile":"58022375","address":"xyz"}
+[2025-01-23 19:24:07] Attempting to update user ID: 104
+[2025-01-23 19:24:07] Update data: {"name":"coquille Master","email":"dissertationsafefund@gmail.com","mobile":"58022375","address":"xyz"}
+[2025-01-23 19:24:07] Exception in updateUser method: Call to undefined method User::updateUser()
+[2025-01-23 19:24:07] Exception trace: #0 {main}
+[2025-01-23 19:24:07] Critical error in update process: Call to undefined method User::updateUser()
+[2025-01-23 19:24:07] Stack trace: #0 {main}
+[2025-01-23 19:28:50] Attempting to update user ID: 104
+[2025-01-23 19:28:50] Update data: {"name":"coquille Master","email":"dissertationsafefund@gmail.com","mobile":"58022375","address":"xyz"}
+[2025-01-23 22:28:50] Update result: true
+[2025-01-23 22:28:50] Update successful, redirecting...
+[2025-01-23 19:29:11] Attempting to update user ID: 104
+[2025-01-23 19:29:11] Update data: {"name":"coquille Master","email":"dissertationsafefund@gmail.com","mobile":"58022375","address":"Here there near"}
+[2025-01-23 22:29:11] Update result: true
+[2025-01-23 22:29:11] Update successful, redirecting...
+[2025-01-24 16:41:26] Attempting to update user ID: 104
+[2025-01-24 16:41:26] Update data: {"name":"coquille Masterrr","email":"dissertationsafefund@gmail.com","mobile":"58022375","address":"Here there near"}
+[2025-01-24 19:41:26] Update result: true
+[2025-01-24 19:41:26] Update successful, redirecting...
