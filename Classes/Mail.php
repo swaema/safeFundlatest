@@ -38,13 +38,13 @@ class Mail
             $mail->isSMTP();
             $mail->Host = 'smtp.gmail.com';
             $mail->SMTPAuth = true;
-            $mail->Username = 'sbw.hosenbocus@gmail.com'; // Your Gmail address
-            $mail->Password = 'jdxetthyweurpkcg'; // Your App Password (use environment variables in production)
+            $mail->Username = 'admin@safefunds.online'; // Your Gmail address
+            $mail->Password = 'Dissertation27$'; // Your App Password (use environment variables in production)
             $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
             $mail->Port = 587;
 
             // Email details
-            $mail->setFrom('dissertationsafefund@gmail.com', 'Admin');
+            $mail->setFrom('admin@safefunds.online', 'Admin');
             $mail->addAddress('umar150704@gmail.com');
             $mail->Subject = 'Mail for Loan Acceptance';
             $messageBody = 'Dear ' . $mailUser['name'] . ', your loan request for amount ' . $mailUser['loanAmount'] .
